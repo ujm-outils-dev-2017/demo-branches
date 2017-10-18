@@ -1,8 +1,7 @@
-# demo-branches : L3 informatique UJM (2016-2017)
+# demo-branches : L3 informatique UJM (2017-2018)
 
-<<<<<<< HEAD
-* [LHOSTE MickaÃ«l](students/mlhoste.md "MickaÃ«l LHOSTE, mlhoste pour les intimes...")
 * [GROLLEAU Tao](students/tgrolleau.md "Tao Grolleau")
-=======
+
+* [LHOSTE Mickael](students/mlhoste.md "Mickael LHOSTE, à prononcer à la française...")
 * [BRAHIMI Madjid](students/mbrahimi.md "Madjid BRAHIMI, camarade...")
->>>>>>> 747e5082e69ff72e3e24d69dcc3348c0c12971a8
+* [MARKOVIC Adam](students/adamkin.md "Adam MARKOVIC, 'sup")
