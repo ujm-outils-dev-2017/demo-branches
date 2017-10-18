@@ -5,4 +5,5 @@
 * [MADIH Abdelmoghit](students/abmad.md "Abdelmoghit MADIH, abmad pour les intimes...")
 * [BRAHIMI Madjid](students/mbrahimi.md "Madjid BRAHIMI, camarade...")
 * [MARKOVIC Adam](students/adamkin.md "Adam MARKOVIC, 'sup")
+* [LALAMI Anis](students/alalami.md "Anis LALAMI, Monsieurs Lalami pour tout le monde.")
 
