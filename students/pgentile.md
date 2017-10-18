@@ -1,3 +1,3 @@
 # Pierre GENTILE
-
+![Pierre GENTILE](../images/pierre.jpg)
 Description de **Pierre GENTILE** ...
