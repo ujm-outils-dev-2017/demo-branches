@@ -1,8 +1,8 @@
 # demo-branches : L3 informatique UJM (2017-2018)
 
-* [LHOSTE MickaÃ«l](students/mlhoste.md "MickaÃ«l LHOSTE, mlhoste pour les intimes...")
-
 * [JOUVET Lucas](students/ljouvet.md "Lucas JOUVET")
+
+* [LHOSTE Mickael](students/mlhoste.md "Mickael LHOSTE, à prononcer à la française...")
 
 * [BRAHIMI Madjid](students/mbrahimi.md "Madjid BRAHIMI, camarade...")
 
