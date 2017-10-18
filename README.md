@@ -3,7 +3,7 @@
 
 * [Bissuel Quentin](students/QBissuel.md "Quentin Bissuel, QBissuel pour les intimes...")
 
-* [LHOSTE Mickaël](students/mlhoste.md "Mickaël LHOSTE, mlhoste pour les intimes...")
+* [LHOSTE Mickael](students/mlhoste.md "Mickaël LHOSTE, mlhoste pour les intimes...")
 * [GENTILE Pierre](students/pgentile.md "Pierre GENTILE")
 * [BRAHIMI Madjid](students/mbrahimi.md "Madjid BRAHIMI, camarade...")
 * [JOUVET Lucas](students/ljouvet.md "Lucas JOUVET")
