@@ -1,6 +1,6 @@
 # demo-branches : L3 informatique UJM (2017-2018)
 
-<<<<<<< HEAD
+
 * [Bissuel Quentin](students/QBissuel.md "Quentin Bissuel, QBissuel pour les intimes...")
 =======
 * [LHOSTE Mickaël](students/mlhoste.md "Mickaël LHOSTE, mlhoste pour les intimes...")
@@ -13,4 +13,4 @@
 * [MARKOVIC Adam](students/adamkin.md "Adam MARKOVIC, 'sup")
 * [GROLLEAU Tao] (students/tgrolleau.md "Tao GROLLEAU")
 * [PATURAL Maleine](students/mpatural)
->>>>>>> refs/remotes/origin/dev
+
